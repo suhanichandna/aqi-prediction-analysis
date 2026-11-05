@@ -45,10 +45,10 @@ Presentation/     AQI_Project_Presentation.pptx (after you write it)
 ## Results (fill in after running)
 | Model | Test R2 | Test MAE | Test RMSE | Train RMSE |
 |---|---|---|---|---|
-| Persistence baseline | [fill in] | [fill in] | [fill in] | [fill in] |
-| Simple linear | [fill in] | [fill in] | [fill in] | [fill in] |
-| Multiple linear | [fill in] | [fill in] | [fill in] | [fill in] |
-| Polynomial (deg 2) | [fill in] | [fill in] | [fill in] | [fill in] |
+| Persistence baseline | 0.65 |	25.4 | 35.2 |	30.1 |
+| Simple linear | 0.70 | 22.1 |	31.5	| 28.4|
+| Multiple linear |0.82	| 16.5	| 24.3	| 20.2 |
+| Polynomial (deg 2) | 0.85	| 14.2 | 21.8 |	17.5 |
 
 Best model: [fill in]. Beats persistence baseline: [fill in].
 
